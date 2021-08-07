@@ -2,3 +2,9 @@ fdsf
 study
 
 mydata
+
+
+
+
+
+window

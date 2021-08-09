@@ -1,6 +1,6 @@
 #include <iostream>
 #include "test.h"
-
+#include <sys/socket.h>
 int main()
 {
     int a = 3;

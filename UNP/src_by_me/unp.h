@@ -18,3 +18,6 @@
 #include	<unistd.h>
 #include	<sys/wait.h>
 #include	<sys/un.h>		/* for Unix domain sockets */
+
+#define MAXLINE 20
+#endif
